@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Midterm Practice</string>
+    <string name="pO">Player O\'s turn</string>
+    <string name="pX">Player X\'s turn</string>
+    <string name="pOwin">Player O wins!</string>
+    <string name="pXwin">Player X wins!</string>
+    <string name="draw">It\'s a draw!</string>
+    <string name="restartBtn">Restart</string>
+    <string name="empty">-</string>
+    <string name="O">O</string>
+    <string name="X">X</string>
+</resources>
